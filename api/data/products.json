@@ -1,0 +1,25 @@
+[
+	{
+		"_id": "5c8a1d5b0190b214360dc032",
+		"name": "Pistache",
+		"price": 23,
+		"quantity": 2,
+		"photo": "no-photo.png"
+	},
+    {
+		"_id": "5c8a1d5b0190b214360dc033",
+		"name": "Peperoni",
+		"price": 27,
+		"quantity": 4,
+		"photo": "no-photo.png"
+	},
+    {
+		"_id": "5c8a1d5b0190b214360dc034",
+		"name": "Ketchup",
+		"price": 73,
+		"quantity": 55,
+		"photo": "no-photo.png"
+	}
+	
+	
+]
