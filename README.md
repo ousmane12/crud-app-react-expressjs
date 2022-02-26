@@ -1,7 +1,7 @@
 # crud-app-react-expressjs
 Basic crud app for users and products using React and ExpressJS/NodeJS and MongoDB as database
 
-# Prerequisites when
+# Prerequisites
 
 - Install NodeJS
 - In a terminal type npm install express to install express
