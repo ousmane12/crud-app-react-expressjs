@@ -1,5 +1,5 @@
 # crud-app-react-expressjs
-Basic crud app using React and ExpressJS/NodeJS and MongoDB as database
+Basic crud app for users and products using React and ExpressJS/NodeJS and MongoDB as database
 
 # Prerequisites when
 
